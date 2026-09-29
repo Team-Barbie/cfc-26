@@ -49,8 +49,8 @@ You need Node.js **22.12 or newer**, npm, a webcam, and a browser with camera ac
 Clone the repository, then start the web app:
 
 ```bash
-git clone https://github.com/Team-Barbie/vinhack-26.git
-cd vinhack-26
+git clone https://github.com/Team-Barbie/cfc-26.git
+cd cfc-26
 cd web
 npm install
 npm run dev

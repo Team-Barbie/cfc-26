@@ -50,7 +50,7 @@ export function Privacy({ onExit }: { onExit: () => void }) {
       <h2>Contact</h2>
       <p>
         Questions go to the team through the{' '}
-        <a href="https://github.com/Team-Barbie/vinhack-26/issues" target="_blank" rel="noreferrer">
+        <a href="https://github.com/Team-Barbie/cfc-26/issues" target="_blank" rel="noreferrer">
           project's GitHub issues
         </a>
         .
