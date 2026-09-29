@@ -4,9 +4,7 @@
 
 VisionLoop is a webcam-based assistive communication prototype for patients who cannot easily speak or reach a call button. MediaPipe face and iris tracking turns gaze and blinks into on-screen selections without dedicated eye-tracking hardware, while every control remains usable with touch, mouse, or keyboard.
 
-Built by **Team Barbie** for **VinHack 2026**.
-
-Built for VINHACK 2026, VisionLoop finished as a Top 10 project.
+Built by **Team Barbie** for **Code for Communities 2026**.
 
 ## What's in this repository?
 
@@ -89,7 +87,7 @@ For consistent tracking, use even lighting and position the camera near eye leve
 ## Project materials
 
 - [Figma UI file](https://www.figma.com/design/94HjT5KJCZInlVge6frj3E/VisionLoop-%E2%80%94-Website-UI?node-id=9-2)
-- [VinHack presentation](output/VisionLoop-VINHACK-Dashboard.pptx)
+- [Code for Communities presentation](output/VisionLoop-CFC-Dashboard.pptx)
 
 ## Team Barbie
 

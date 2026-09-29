@@ -64,7 +64,7 @@ export function Terms({ onExit }: { onExit: () => void }) {
     <LegalPage title="Terms" onExit={onExit}>
       <h2>What this is</h2>
       <p>
-        GazeBridge is a hackathon prototype built by Team Barbie for VinHack 2026. It is offered free, as is,
+        GazeBridge is a hackathon prototype built by Team Barbie for Code for Communities 2026. It is offered free, as is,
         without warranty of any kind.
       </p>
 

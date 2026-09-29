@@ -144,7 +144,7 @@ Per point:
 
 Predict `screen = (clamp(φ·w_x, 0, W), clamp(φ·w_y, 0, H))`. Refit only on calibration end (and on window resize: scale stored targets to the new viewport, or ask to recalibrate if size changed > 10%).
 
-**Persist** `{ wX, wY, viewport, savedAt }` in `sessionStorage` under `vinhack-gaze-v1`. Skip calibration on refresh unless the user clicks Recalibrate or the quality gate fails.
+**Persist** `{ wX, wY, viewport, savedAt }` in `sessionStorage` under `cfc-gaze-v1`. Skip calibration on refresh unless the user clicks Recalibrate or the quality gate fails.
 
 **Quality:** mean Euclidean residual of sample means vs targets. Good < 6% of min(W,H); warn 6–8%; retry above that.
 
